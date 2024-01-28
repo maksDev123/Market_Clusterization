@@ -1,4 +1,4 @@
-# Market_Clusterization
+# Market Clusterization
 
 In this project, I conducted exploration of industry best practices in clusterization, employing RFM Analysis for the purpose of Marketing Segmentation
 
